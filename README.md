@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @firstwar
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+firstwar/firstwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+hello i am vaibhav sharma
+right now i am doing a project called sign language recognition on jupyter notebook
+if you want more detail ask me anytime or if you want to give any suggestion i am happy for that but first you need to wait for selection.
