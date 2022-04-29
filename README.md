@@ -10,4 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 hello i am vaibhav sharma
 right now i am doing a project called sign language recognition on jupyter notebook
-if you want more detail ask me anytime or if you want to give any suggestion i am happy for that but first you need to wait for selection.
+25/02/2022
+making a app and attach my code with it but i need to update few things then i'll go for it.
+if you want to help me that's good for me
+Thanks
